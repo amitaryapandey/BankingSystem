@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABd/EuED475KRFsjes7bBgc/BsqiJJlVmKapq8SSx1LT88U/VGns6G9K7YVUA/qoT0fmvezrx3iQj2dpzr3oyg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91706\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\91706\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\91706\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\91706\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\91706\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\91706\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
